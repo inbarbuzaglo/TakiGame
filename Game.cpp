@@ -1,7 +1,6 @@
 #include "Game.h"
 #include "Player.h"
 #include <iostream>
-#include <conio.h>
 #include <stdio.h>
 #pragma once
 using namespace std;
